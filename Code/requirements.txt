@@ -1,0 +1,8 @@
+opencv-python
+picamera2
+numpy
+gpiozero
+pytesseract
+requests
+gtts
+Pillow

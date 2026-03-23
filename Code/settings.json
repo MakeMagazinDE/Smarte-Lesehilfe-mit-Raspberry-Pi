@@ -1,0 +1,55 @@
+{
+    "zoom_factor": 2.0,
+    "rotation": 180,
+    "quality_mode": 1,
+    "contrast_alpha": 1.0,
+    "brightness_beta": 0.0,
+    "auto_brightness": true,
+    "color_order": "RGB",
+    "camera_resolution": [
+        1920,
+        1080
+    ],
+    "monochrome_mode": false,
+    "kalibrierungs_punkte": [
+        [
+            0.0,
+            0.0
+        ],
+        [
+            1279.0,
+            0.0
+        ],
+        [
+            1188.0,
+            1023.0
+        ],
+        [
+            89.0,
+            1023.0
+        ]
+    ],
+    "transform_matrix": [
+        [
+            1.0007818937301636,
+            -0.09287150949239731,
+            0.0
+        ],
+        [
+            0.0,
+            0.8601049780845642,
+            0.0
+        ],
+        [
+            0.0,
+            -0.00013043751823715866,
+            1.0
+        ]
+    ],
+    "tts_espeak_lang": "de",
+    "tts_espeak_voice": "+f3",
+    "tts_espeak_speed": 150,
+    "tts_espeak_volume": 100,
+    "tts_google_lang": "de",
+    "tts_google_slow": false
+}
