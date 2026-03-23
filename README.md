@@ -10,9 +10,6 @@ Maker Media GmbH
 Lesehilfe. Diese kann dann nicht nur als digitale Lupe fungieren, sondern erkannte Texte
 visuell aufbereiten und vorlesen.**
 
-![Aufmacherbild aus dem Heft](./doc/Aufmacher.JPG)
-
-## Wer den Aufmacher skalieren muss:
 <img src="./doc/Aufmacher.JPG" width="50%" height="50%">
 
 Hier gibt es !!! ein Template für die README.md in Github. Das Aufmacherbild sowie weitere Doku soll in den Ordner _doc_. Bitte für andere Dateien sinnvolle Ordner anlegen, etwa _src_ oder _cad_.
