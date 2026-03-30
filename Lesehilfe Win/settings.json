@@ -1,0 +1,21 @@
+{
+    "zoom_factor": 2.0,
+    "rotation": 0,
+    "quality_mode": 3,
+    "contrast_alpha": 0.9,
+    "brightness_beta": 0.0,
+    "auto_brightness": false,
+    "color_order": "RGB",
+    "camera_resolution": [
+        1920,
+        1080
+    ],
+    "camera_index": 0,
+    "monochrome_mode": false,
+    "kalibrierungs_punkte": null,
+    "transform_matrix": null,
+    "tts_google_lang": "de",
+    "tts_google_slow": false,
+    "tts_pyttsx_rate": 150,
+    "tts_pyttsx_volume": 1.0
+}
